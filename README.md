@@ -13,3 +13,6 @@ Os pesos gerados com os treinamentos dos modelos foram salvos no presente reposi
 
 Para o primeiro modelo, network, foram salvos os pesos em weights.hdf5 e o modelo em network.json.
 Para o segundo modelo, network_2, foram salvos os pesos em weights_2.hdf5 e o modelo em network_2.json.
+
+O notebook elaborado segue também disponível através do link:
+https://colab.research.google.com/drive/1KexLdlqtwIXu6G4XSymP4ZkAPD1_IUPT?usp=sharing
