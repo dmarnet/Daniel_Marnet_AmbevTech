@@ -7,7 +7,7 @@ entre acurácia alta e tempo de inferência baixo para classificação de rótul
 Foram elaborados dois modelos com Convolutional Neural Networks (CNNs), redes neurais convolucionais, para comparação do tempo de inferência e acurácia.
 Os modelos foram elaborados com a biblioteca open-source Keras TensorFlow.
 
-Os modelos estão disponíveis no arquivo notebook Daniel_Marnet_AmbevTech, com linguagem de programação python.
+Os modelos estão disponíveis no arquivo notebook Daniel_Marnet_classificacao_rotulos_cerveja.ipynb, com linguagem de programação python.
 
 Os pesos gerados com os treinamentos dos modelos foram salvos no presente repositório.
 
