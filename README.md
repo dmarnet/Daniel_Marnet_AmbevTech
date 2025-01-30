@@ -1,4 +1,4 @@
-# AmbevTech_VisaoComputacional
+# Visao Computacional
 Experimento para classificação de imagens de rótulos de cerveja.
 
 O objetivo é conduzir um pequeno experimento que avalie a melhor combinação
